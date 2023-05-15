@@ -9,4 +9,4 @@ Uma API da alura foi consumida, onde mostra:
 - Ordena os preços do menor para o maior
 
 Feita nos meus estudos, no curso "JavaScript: métodos de array | Alura", 
-onde consegui absorver bastante aprendizado sobre manipulação de arrays - Espero que goste! - 
+onde consegui absorver bastante aprendizado sobre manipulação de arrays - Espero que goste! - https://joao0028.github.io/Mostra-livros-API/
